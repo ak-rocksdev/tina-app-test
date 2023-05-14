@@ -5,12 +5,16 @@
       "color": "orange",
       "style": "float"
     },
-    "name": "Tina Starter",
+    "name": "LAB Skate",
     "color": "default",
     "nav": [
       {
-        "href": "",
+        "href": "home",
         "label": "Home"
+      },
+      {
+        "href": "/services",
+        "label": "Services"
       },
       {
         "href": "about",
@@ -33,6 +37,6 @@
   "theme": {
     "color": "blue",
     "font": "sans",
-    "darkMode": "system"
+    "darkMode": "light"
   }
 }

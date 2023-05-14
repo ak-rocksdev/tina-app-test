@@ -1,17 +1,10 @@
 ---
-title: LAB Skate - Home
+title: services
 blocks:
-  - tagline: We're LAB Skate
-    headline: We Turn the Wildest Skatepark Imagination Into Reality
-    text: |
-      From design to Build!
-    actions:
-      - label: See Our Services
-        type: button
-        icon: true
-        link: /services
+  - headline: Here Are Our Services
+    text: ''
     image:
-      src: /uploads/bg-banner.jpg
+      src: /uploads/bsd_skatepark_drone_top.jpg
       alt: Skatepark
     color: default
     _template: hero
@@ -48,8 +41,5 @@ blocks:
     color: tint
     _template: features
 ---
-
-
-
 
 
